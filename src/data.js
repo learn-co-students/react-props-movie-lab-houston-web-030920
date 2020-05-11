@@ -1,4 +1,4 @@
-const movieData = [
+export const movieData = [
   {
     title: 'Choux and Maru go to Istanbul',
     IMDBRating: 3,
@@ -56,4 +56,4 @@ const movieData = [
   },
 ]
 
-export default movieData
+// export default movieData
